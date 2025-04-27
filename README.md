@@ -50,5 +50,6 @@ Generate the dataset using the DeepMIMO script you get 2 csv files each for ULA 
 
 ## References
 
-- [DeepMIMO Official GitHub](https://github.com/DeepMIMO/DeepMIMO)
-- [DeepMIMO Paper](https://arxiv.org/abs/1902.06435)
+- [DeepMIMO Official GitHub](https://github.com/DeepMIMO/DeepMIMO-python)
+- [DeepMIMO_scenario](https://www.deepmimo.net/)
+- [**Deep Learning-based Beamspace Channel Estimation** method for mmWave Massive MIMO systems using a **Switch-Based Selection Network**](https://ieeexplore.ieee.org/abstract/document/10570856/)
